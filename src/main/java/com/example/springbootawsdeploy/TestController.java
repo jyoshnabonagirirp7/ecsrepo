@@ -18,7 +18,7 @@ public class TestController {
     }
 
     @GetMapping("/jyoshna")
-    public String getMessage() {
+    public String getMessagej() {
         return "pittu from jysohna";
     }
 }
